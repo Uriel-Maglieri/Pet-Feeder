@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EESTN5")(type "KiCad")(uri "C:/Users/usuario/Desktop/Librerias-Kicad/EESTN5.kicad_sym")(options "")(descr ""))
+  (lib (name "EESTN5.")(type "Legacy")(uri "C:/Users/usuario/Desktop/Librerias-Kicad/EESTN5.lib")(options "")(descr ""))
+)
